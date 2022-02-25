@@ -1,0 +1,4 @@
+apps:
+  script: "/bin/bash"
+  name: "autocord"
+  args: ["-c", "python3 -m autocord"]
